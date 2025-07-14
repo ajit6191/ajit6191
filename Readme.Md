@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ramchandra Dalvi</h1>
+<h1>Hi 👋, I'm Ajit Gavade</h1>
 <h3>A passionate MernStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"/>
 
