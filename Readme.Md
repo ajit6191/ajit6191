@@ -33,7 +33,7 @@
 <br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stat's:
+## 📊Ajit Gavade GitHub Stat's:
 
 ![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajit6191&show_icons=true&theme=midnight-voilet)
 
