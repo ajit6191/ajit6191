@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ajitgavade2004@gmail.com**
 
-- 🎮 My First Game Try : [ajitdev/tic-tac-toe](https://ajit6191.github.io/tic_tac_toe/)
+- 🎮 My First Game Try : [https://ajitgavade6191/tic-tac-toe](https://ajit6191.github.io/tic_tac_toe/)
 
 - ⚡ Fun fact **I am cool**
 
