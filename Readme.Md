@@ -2,18 +2,16 @@
 <h3>A passionate MernStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"/>
 
-- 🌱 I’m **MernStack Developer**
+- 🌱 Hello I'm a Mernstack Developer**
 
-- 👨‍💻 All of my projects are available at My Portfolio -  [https://rdalvi1210.github.io/ramchandradalviportfolio/](https://rdalvi1210.github.io/ramchandradalviportfolio/)
+- 📫 How to reach me **ajitgavade2004@gmail.com**
 
-- 📫 How to reach me **rdalvi1210@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom:100px">
-<a href="https://www.linkedin.com/in/ramchandra-dalvi-002a5b363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramchandra-dalvi" height="30" width="40" /></a>
-<a href="https://instagram.com/_r_dalvi_1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r_dalvi_1210" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/ajit-gavade-485033374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit gavade" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_gavade_6191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r_dalvi_1210" height="30" width="40"/></a>
 </p>
 
 
@@ -34,7 +32,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stat's:
-![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdalvi1210&show_icons=true&theme=midnight-voilet)
+![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajit6191&show_icons=true&theme=midnight-voilet)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
